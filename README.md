@@ -4,7 +4,7 @@ Proyek ini adalah sistem **web scraping otomatis** yang mengambil data produk da
 
 ### 🔍 Tujuan Proyek
 Membuat tools scraping berbasis Node.js yang:
-- Mengambil detail produk dari eBay (judul, harga, deskripsi, dan link).
+- Mengambil detail produk dari eBay (judul, harga, dan deskripsi).
 - Menggunakan **Gemini AI** untuk membaca HTML dan mengambil informasi produk secara cerdas.
 - Menyimpan hasil dalam format **JSON**.
 
