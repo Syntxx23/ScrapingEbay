@@ -41,8 +41,10 @@ Membuat tools scraping berbasis Node.js yang:
 git clone https://github.com/Syntxx23/ScrapingEbay.git
 cd ScrapingEbay
 
-###**2.  Install Dependencies**
+### 2.  Install Dependencies
 npm i
+npm i axios cheerio
+npm i @google/generative-ai
 
 ### 3. Tambahkan API Key Gemini
 const GEMINI_API_KEY = "GANTI_DENGAN_API_KEY_MU";
